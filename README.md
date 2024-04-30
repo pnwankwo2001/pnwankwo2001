@@ -1,0 +1,24 @@
+ 👋 Hi, MEET **MR. PETER OBINNA NWANKWO**
+ 
+**Master Business Analyst**
+ 
+My expertise lies in leveraging positive analytical thinking, problem-solving orientation, stakeholders engagement and research knowledge to
+drive process improvement and enhance productivity.
+My background soft skills includes strong skill-sets in clear communications, cross-functional collaboration and team management,
+as well as database management and data analytics.
+
+**Tech. Skills & Experience**
+
+📈 Advance Excel(Pivot table, Data visualization, Power Pivot)
+
+📊 Power Bi (Data analysis, Data Model, DAX, Power query)
+
+🏦 SQL (PostgreSQL, Joins, Database creation)
+
+📉 Tableau (I’m currently learning Tableau / Machine Learning / A.I
+
+
+
+
+****
+--->
