@@ -15,7 +15,7 @@ as well as database management and data analytics.
 
 🏦 SQL (PostgreSQL, Joins, Database creation)
 
-📉 Tableau (I’m currently learning Tableau / Machine Learning / A.I
+📉 Tableau (I’m currently learning Tableau / Machine Learning / A.I)
 
 
 
